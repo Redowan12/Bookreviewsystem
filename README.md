@@ -108,9 +108,3 @@ Developed by
 
 ---
 
-👉 You just need to:  
-- Replace `your-username` with your GitHub username.  
-- Add your real **default admin/user accounts** if they’re different.  
-- Drop in **screenshots** inside `/assets/images` and update README.  
-
-Do you want me to also **include sample SQL insert data** (like one defaul
